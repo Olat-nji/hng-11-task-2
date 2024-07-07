@@ -23,7 +23,7 @@ This directory contains the frontend of the application built with ReactJS and C
 
 3. **Run the development server**:
     ```sh
-    npm run dev
+    npm run dev -- --host
     ```
 
 4. **Configure API URL**:
